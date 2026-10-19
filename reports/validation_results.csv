@@ -1,0 +1,3 @@
+model,mae,rmse
+Price-per-mile baseline,249.0120064390102,674.7181174548526
+Histogram gradient boosting,160.26691789223915,627.701632804621
